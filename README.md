@@ -20,7 +20,7 @@ const aboutMe = {
   <a href="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
     <img
       align="center"
-      height="300"
+      height="310"
       widht="400"
       src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
     />
