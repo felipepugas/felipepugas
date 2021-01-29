@@ -26,6 +26,7 @@ const aboutMe = {
     />
    </a>
  </p>   
+ 
 <!--### Studying:-->
 ### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -37,4 +38,5 @@ const aboutMe = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <!-- <code><img height="25" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code> -->
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipepugas&show_icons=true&theme=midnight-purple" alt="felipepugas :: Profile Stats" /></p>
