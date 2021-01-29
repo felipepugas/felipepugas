@@ -5,8 +5,6 @@
 [![](https://img.shields.io/badge/Gmail-felipepugas2%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub felipepugas](https://img.shields.io/github/followers/felipepugas?label=follow&style=social)](https://github.com/felipepugas)
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
-
 <h2> Starting in the developer world but looking forward to growth!!</h2> 
     
 ```javascript
@@ -18,7 +16,15 @@ const aboutMe = {
     askMeAbout: ["web dev", "games", "music", "kpop", "TRPG", "twenty one pilots"],
 };
 ```
-
+<p align="justify">
+  <a href="https://github.com/BrunoNishimura/github-readme-stats">
+    <img
+      align="justify"
+      height="150"
+      src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
+    />
+   </a>
+ </p>   
 <!--### Studying:-->
 ### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
