@@ -42,4 +42,4 @@ const aboutMe = {
 <!-- <code><img height="25" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code> -->
 
 
-<p align="center" padding="0px 35px"><img src="https://github-readme-stats.vercel.app/api?username=felipepugas&show_icons=true&theme=buefy" alt="felipepugas :: Profile Stats" /></p>
+<p align="center" padding="0px 100px"><img src="https://github-readme-stats.vercel.app/api?username=felipepugas&show_icons=true&theme=buefy" alt="felipepugas :: Profile Stats" /></p>
