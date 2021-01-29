@@ -1,10 +1,12 @@
 
-<h1 style="color: purple;">Hey, i'm Felipe Pugas <img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="50"></h1>
+<h1>Hey, i'm Felipe Pugas <img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="50"></h1>
 
 [![Linkedin: felipepugas](https://img.shields.io/badge/-felipepugas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepugas/)](https://www.linkedin.com/in/thaianebraga/)
 [![](https://img.shields.io/badge/Gmail-felipepugas2%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub felipepugas](https://img.shields.io/github/followers/felipepugas?label=follow&style=social)](https://github.com/felipepugas)
 
+    <h2> Starting in the developer world but looking forward to growth!! </h2>
+    
 ```javascript
 const aboutMe = {
     name: "Felipe",
