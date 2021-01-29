@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="50">
 
 
 **felipepugas/felipepugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
