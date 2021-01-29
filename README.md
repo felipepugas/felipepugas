@@ -1,4 +1,4 @@
-``` HTML
+```
 <h1 style="color: purple;">Hey, i'm Felipe Pugas <img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="50"></h1>
 ```
 [![Linkedin: felipepugas](https://img.shields.io/badge/-felipepugas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepugas/)](https://www.linkedin.com/in/thaianebraga/)
