@@ -5,6 +5,27 @@
 [![](https://img.shields.io/badge/Gmail-felipepugas2%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub felipepugas](https://img.shields.io/github/followers/felipepugas?label=follow&style=social)](https://github.com/felipepugas)
 
+```javascript
+const aboutMe = {
+    name: "Felipe",
+    age: "19y",
+    from: "Bahia" | "Brazil",
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    technologies: {
+       mobileApp: ["Android App"],
+       backEnd: {
+            js: ["node", "express", "hapi"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["microservices", "event-driven"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <!--### Studying:-->
 ### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
