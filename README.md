@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Gmail-felipepugas2%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub felipepugas](https://img.shields.io/github/followers/felipepugas?label=follow&style=social)](https://github.com/felipepugas)
 
-<h2> Starting in the developer world but looking forward to growth!!</h2> 
+<h2> Starting in the developer world and looking forward to growth!!</h2> 
     
     
 ```javascript
