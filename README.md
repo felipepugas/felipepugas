@@ -21,6 +21,7 @@ const aboutMe = {
     <img
       align="center"
       height="150"
+      widht="400"
       src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
     />
    </a>
