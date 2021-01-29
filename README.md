@@ -16,10 +16,10 @@ const aboutMe = {
     askMeAbout: ["web dev", "games", "music", "kpop", "TRPG", "twenty one pilots"],
 };
 ```
-<p align="justify">
-  <a href="https://github.com/BrunoNishimura/github-readme-stats">
+<p align="center">
+  <a href="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
     <img
-      align="justify"
+      align="center"
       height="150"
       src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
     />
