@@ -4,19 +4,15 @@
 [![](https://img.shields.io/badge/Gmail-felipepugas2%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub felipepugas](https://img.shields.io/github/followers/felipepugas?label=follow&style=social)](https://github.com/felipepugas)
 
-``` javascript
-const felipep = {
-    pronouns: "he" | "him",
-    code: ["HTML5", "CSS3", "Javascript"],
-    technologies: {
-       frontEnd: {
-            js: ["React", "Angular"],
-            CSS: ["Bootstrap"]
-        },
-    },    
-    askMeAbout: ["web dev", "games", "music", "kpop", "TRPG"],
-    architecture: ["microservices", "event-driven"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<!--### Studying:-->
+### Technologies:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=felipepugas&show_icons=true&theme=midnight-purple" alt="felipepugas :: Profile Stats" /></p>
