@@ -1,10 +1,9 @@
 <h1>Hey, i'm Felipe Pugas <img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="40"></h1>
 
-
-**felipepugas/felipepugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: felipepugas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepugas/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub felipepugas](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/felipepugas)
 
 Here are some ideas to get you started:
-https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
