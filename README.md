@@ -14,7 +14,7 @@ const aboutMe = {
     age: "20y",
     from: "Bahia-Brazil",
     pronouns: "he" | "him",
-    askMeAbout: ["web dev", "games", "music", "kpop", "TRPG", "twenty one pilots"],
+    askMeAbout: ["web dev", "games", "music", tv series],
 };
 ```
 <p align="center">
