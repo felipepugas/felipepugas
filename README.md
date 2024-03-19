@@ -11,7 +11,7 @@
 ```javascript
 const aboutMe = {
     name: "Felipe",
-    age: "20y",
+    age: "22y",
     from: "Bahia-Brazil",
     pronouns: "he" | "him",
     askMeAbout: ["web dev", "games", "music", "tv series"],
